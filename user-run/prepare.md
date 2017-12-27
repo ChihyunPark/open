@@ -2,7 +2,9 @@
 
 ### Count sgRNA read
 
-![](/assets/import.png)
+![](/assets/2.png)
+
+
 
 You have to prepare
 
@@ -10,21 +12,15 @@ You have to prepare
 2. sgRNA library file
 3. sgRNA barcode file or information
 
-### 
-
-![](/assets/slide3.png)
+### ![](/assets/3.png)
 
 Enter the file
 
-### 
-
-![](/assets/slide4.png)
+### ![](/assets/4.png)
 
 Select the mismatch allow \(from 0 to 2\)
 
-### 
-
-![](/assets/slide5.png)
+![](/assets/5.png)
 
 Perform counting.
 
